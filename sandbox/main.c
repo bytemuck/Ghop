@@ -1,3 +1,5 @@
+// It's the file where I try stuff.
+
 #include "ghop_ecs/ecs.h"
 
 #include <stdio.h>
