@@ -1,5 +1,9 @@
 #pragma once
 
+// Guaranteed size_t
+#include <stddef.h>
+
+// The rest of sized integers
 #include <stdint.h>
 
 typedef uint32_t GHOPEntity;
